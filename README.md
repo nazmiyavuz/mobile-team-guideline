@@ -2,7 +2,7 @@
 
 1. [Git Flow](https://github.com/nazmiyavuz/mobile-team-guideline/blob/develop/GitFlow.md)
 
-2. [iOS Guideline](https://github.com/nazmiyavuz/mobile-team-guideline/blob/develop/iOS/iOSGuideline.md)
+2. [iOS Guideline](https://github.com/nazmiyavuz/mobile-team-guideline/wiki)
 
 3. [Android GuideLine](https://github.com/nazmiyavuz/mobile-team-guideline/blob/develop/Android/AndroidGuideline.md)
 
